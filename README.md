@@ -2,7 +2,7 @@
 Code to handle ThingSpeak write and read actions to few fields with Arduino and ESP-based boards.
 
 This is a demo to handle ThingSpeak with Arduino and ESP-based boards. In this demo I used ThingSpeak library for Arduino, although you could use different approach
-like (json, xaml, handlind http and headers by hand). In this demo I used 2 different boards:
+like (json, xaml, handling http, headers and urls by hand). In this demo I used 2 different boards:
 - Wemos D1 mini (ESP8266 based)
 - LilyGo TTGO T-Display (ESP32 based)
 
